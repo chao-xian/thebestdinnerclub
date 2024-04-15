@@ -10,7 +10,6 @@ layout: base.njk
     {% endif %}
 </header>
 <main>
-    <hr>
-    {% set entries = homepage.menu %}
-    {% include "menu.njk" %}
+    {% set entries = homepage.posts %}
+    {% include "posts.njk" %}
 </main>
