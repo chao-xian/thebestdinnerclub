@@ -3,6 +3,7 @@ title: Demo post
 date: 2022-08-28T12:37:53.328Z
 tags:
   - post
+eleventyExcludeFromCollections: true
 ---
 
 Pariatur excepteur aliquip proident aute. Cillum Lorem esse voluptate aliquip ad pariatur ullamco non dolore sint exercitation eu et. Ullamco et aliqua ea ut mollit nulla in nostrud.
@@ -55,7 +56,7 @@ And `inline code`
 
 ## Tables
 
-| This | Is | a | Table | 
+| This | Is | a | Table |
 | --- | --- | --- | ---
 | with | some | content | !
 
