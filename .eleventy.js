@@ -7,7 +7,7 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addFilter("formatDate", (dateObj) => {
         return DateTime.fromJSDate(dateObj).toISODate();
-    });     
+    });
 
     let markdownOptions = {
         html: true,
