@@ -5,11 +5,11 @@ tags:
   - post
 ---
 
-It was Kelv's birthday and he booked a huge table at [one of the best noodle places in London](https://yeyelondon.co.uk)! You can see he'd broken my finger in the pic below, but this lovely evening with great pals really cheered him up!
+It was Kelv's birthday and he booked a huge table at [one of the best noodle places in London](https://yeyelondon.co.uk)! You can see he'd broken his finger in the pic below, but this lovely evening with great pals really cheered him up!
 
 ![YeYe's Noodle](/media/yeyes-sept-24/yeye-birthday-gang.webp)
 
-Everyone had either the Dry Mixed Spicy Beef Noodles 火锅牛肉干拌面 or the Braised pork ribs soup noodles 红烧大排骨排面 (but one had theirs "dry" without the soup). We had 16 of the Grilled juice Pork dumplings 原味爆汁生煎 which are so juicy and crazy good.
+Everyone had either the Dry Mixed Spicy Beef Noodles 火锅牛肉干拌面 or the Braised pork ribs soup noodles 红烧大排骨排面 (but Kelv had theirs "dry" without the soup). We had 16 of the Grilled juice Pork dumplings 原味爆汁生煎 which are so juicy and crazy good.
 
 We finished off with some home made gluten free (courgette!) lemon drizzle cake and surprised the birthday boy! As you can see, it was quite emosh...
 
