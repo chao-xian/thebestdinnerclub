@@ -4,18 +4,20 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="{{ eleventy.generator }}">
-    
+
     {% if site.description %}
     <meta name="description" content="{{ site.description }}">
     {% endif %}
     <title>{{ title or site.title }}</title>
 
-    <link rel="stylesheet" href="/css/css.css"> 
+    <link rel="stylesheet" href="/css/css.css">
     {% if page.url == '/' %}
         <script>
             if(location.hash) window.location = `/admin/#${location.href.split("#").pop()}`
         </script>
     {% endif %}
+
+    <script async defer src="https://scripts.withcabin.com/hello.js"></script>
 </head>
 <body>
     {{ content | safe }}
