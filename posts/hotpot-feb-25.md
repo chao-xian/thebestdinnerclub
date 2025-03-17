@@ -5,7 +5,7 @@ tags:
   - post
 ---
 
-Last year I hosted my first hotpot attempt, and one and only dinner at mine. It was so wholesome I needed to do it again for 2025 CNY which was happened to be closer to Valentine's Day. A perfect time for a Palentine Dinner with 3 of my bestest pals.
+Last year I hosted my first hotpot attempt, and one and only dinner at mine. It was so wholesome I needed to do it again for 2025 CNY which happened to be closer to Valentine's Day. A perfect time for a Palentine Dinner with 3 of my bestest pals.
 
 ![The Trio](/media/hotpot-feb-25/the-trio.webp)
 
@@ -17,4 +17,4 @@ We had wonderful chats. I got some nice compliments about my newly acquired (ver
 
 ![Bliss](/media/hotpot-feb-25/bliss.webp)
 
-I sent all 3 of them home with takeaway boxes including extra dessert. It felt quite a success! I am so so honoured and appreciative of these three wonderful people making the effort to come all the way from North London to my place down in South East. I hope to keep up the tradition of Hotpot! 
+I sent all 3 of them home with takeaway boxes including extra dessert. It felt quite a success! I am so so honoured and appreciative of these three wonderful people making the effort to come all the way from North London to my place down in South East. I hope to keep up the tradition of Hotpot!
